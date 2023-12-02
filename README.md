@@ -1,21 +1,3 @@
-# XppaiWRT
-- Telegram bot framework written in PHP 
-## Features
-
-* Support Long Polling and Webhook.
-* Proxy List (Openclash Proxies)
-* Rules List (Openclash Rules)
-* Openclash Information
-* Simple, easy to use.
-* Inline Command
-* Speedtest 
-* Sysinfo
-* Memory
-* Vnstat
-* My IP
-* Aria2
-* MyXL
- 
 ## Commands
 
 Commands list
@@ -41,7 +23,6 @@ git pull
 chmod +x src/plugins/*.sh
 ```
  
-# 📷 Screenshots
 ##### Edit `Xppai.WRT` with your own Bot Token
 ![bottoken](https://i.ibb.co/vP7csgQ/TokenBot.png)
 ##### Starting Bot
