@@ -1,10 +1,5 @@
 # XppaiWRT
-- Telegram bot framework written in PHP for OpenWRT
-
-## Tested on
-* [**Reyre Firmware OC OnLy 28.09.22**](https://www.youtube.com/watch?v=vtjw38V2ybA) -> Speedtest bug
-* [**Reyre Firmware OC OnLy 27.10.22**](https://www.youtube.com/watch?v=0KWgy6P2PVYA) -> Speedtest Fixed | vnstat Bug
-* [**Reyre Firmware OC OnLy 06.11.22**](https://www.youtube.com/watch?v=SBHcJJC8ln0) -> Working Perfectly
+- Telegram bot framework written in PHP 
 ## Features
 
 * Support Long Polling and Webhook.
@@ -76,12 +71,6 @@ chmod +x src/plugins/*.sh
 - php8-cli
 - php8-mod-curl
 - Telegram Bot API Token - Talk to [@BotFather](https://telegram.me/@BotFather)
-
-## Installation
-
-### Follow Tutorial from Youtube (php7)
-[Install OpenWrt PHP Telegram Bot By XppaiWRT | PHP7 REYRE-STB
-](https://www.youtube.com/watch?v=JJPozNreVE0&lc=Ugy_OosDmlWRERUgvB94AaABAg.9iCzkvv1lxu9iV-s6tpDnO)
 
 ### Install from Terminal
 
