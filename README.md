@@ -1,21 +1,3 @@
-## Commands
-
-Commands list
- * /aria2add      | Add task
- * /aria2stats    | Aria2 status
- * /aria2pause    | Pause all
- * /aria2resume   | Resume all
- * /oc        | OC Information
- * /proxies   | Proxies status 
- * /rules     | Rule list 
- * /vnstat    | Bandwidth usage 
- * /memory    | Memory status 
- * /myip      | Get ip details 
- * /myxl 087x | MyXL Info
- * /speedtest | Speedtest 
- * /ping      | Ping bot
- * /sysinfo   | System Information
- 
 ![bottoken](https://i.ibb.co/vP7csgQ/TokenBot.png)
 ##### Starting Bot
 ![Startingbot](https://i.ibb.co/mcYqq3S/startbot.png)
