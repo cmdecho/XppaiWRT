@@ -92,6 +92,3 @@ Auto Start Bot after reboot / internet off
 add scheduled tasks
 */5 * * * * cd XppaiWRT && php8-cli index.php
 ```
-
-CONTACTS ME [@DIGITALNET12]
-(https://telegram.me/@DIGITALNET12) 
